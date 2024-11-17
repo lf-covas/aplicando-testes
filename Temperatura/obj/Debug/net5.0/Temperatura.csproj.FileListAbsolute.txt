@@ -1,0 +1,12 @@
+/workspaces/aplicando-testes/Temperatura/bin/Debug/net5.0/Temperatura.deps.json
+/workspaces/aplicando-testes/Temperatura/bin/Debug/net5.0/Temperatura.dll
+/workspaces/aplicando-testes/Temperatura/bin/Debug/net5.0/Temperatura.pdb
+/workspaces/aplicando-testes/Temperatura/obj/Debug/net5.0/Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/aplicando-testes/Temperatura/obj/Debug/net5.0/Temperatura.AssemblyInfoInputs.cache
+/workspaces/aplicando-testes/Temperatura/obj/Debug/net5.0/Temperatura.AssemblyInfo.cs
+/workspaces/aplicando-testes/Temperatura/obj/Debug/net5.0/Temperatura.csproj.CoreCompileInputs.cache
+/workspaces/aplicando-testes/Temperatura/obj/Debug/net5.0/Temperatura.sourcelink.json
+/workspaces/aplicando-testes/Temperatura/obj/Debug/net5.0/Temperatura.dll
+/workspaces/aplicando-testes/Temperatura/obj/Debug/net5.0/refint/Temperatura.dll
+/workspaces/aplicando-testes/Temperatura/obj/Debug/net5.0/Temperatura.pdb
+/workspaces/aplicando-testes/Temperatura/obj/Debug/net5.0/ref/Temperatura.dll
