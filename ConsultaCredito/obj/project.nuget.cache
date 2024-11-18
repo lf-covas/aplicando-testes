@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5z/SrxNPPg=",
+  "success": true,
+  "projectFilePath": "/workspaces/aplicando-testes/ConsultaCredito/ConsultaCredito.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

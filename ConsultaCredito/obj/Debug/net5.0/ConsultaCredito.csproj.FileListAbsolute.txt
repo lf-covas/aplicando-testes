@@ -1,0 +1,12 @@
+/workspaces/aplicando-testes/ConsultaCredito/bin/Debug/net5.0/ConsultaCredito.deps.json
+/workspaces/aplicando-testes/ConsultaCredito/bin/Debug/net5.0/ConsultaCredito.dll
+/workspaces/aplicando-testes/ConsultaCredito/bin/Debug/net5.0/ConsultaCredito.pdb
+/workspaces/aplicando-testes/ConsultaCredito/obj/Debug/net5.0/ConsultaCredito.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/aplicando-testes/ConsultaCredito/obj/Debug/net5.0/ConsultaCredito.AssemblyInfoInputs.cache
+/workspaces/aplicando-testes/ConsultaCredito/obj/Debug/net5.0/ConsultaCredito.AssemblyInfo.cs
+/workspaces/aplicando-testes/ConsultaCredito/obj/Debug/net5.0/ConsultaCredito.csproj.CoreCompileInputs.cache
+/workspaces/aplicando-testes/ConsultaCredito/obj/Debug/net5.0/ConsultaCredito.sourcelink.json
+/workspaces/aplicando-testes/ConsultaCredito/obj/Debug/net5.0/ConsultaCredito.dll
+/workspaces/aplicando-testes/ConsultaCredito/obj/Debug/net5.0/refint/ConsultaCredito.dll
+/workspaces/aplicando-testes/ConsultaCredito/obj/Debug/net5.0/ConsultaCredito.pdb
+/workspaces/aplicando-testes/ConsultaCredito/obj/Debug/net5.0/ref/ConsultaCredito.dll
