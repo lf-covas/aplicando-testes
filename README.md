@@ -213,3 +213,48 @@ Ponto de ebulição da água:
 - Entrada: 212°F
 - Saída esperada: 100°C
 - Resultado do teste: Passou.
+
+# Testes de Integração com Moq, xUnit e FluentAssertions
+Este tutorial também cobre a implementação de testes de integração em um sistema .NET utilizando as ferramentas Moq, xUnit, e FluentAssertions. Esses testes são projetados para validar a integração de diferentes componentes do sistema e garantir que eles funcionem corretamente quando combinados.
+
+## Objetivo dos Testes de Integração
+Os testes de integração têm como objetivo validar cenários mais complexos do sistema, onde múltiplos componentes interagem. No contexto deste projeto, testamos a classe AnaliseCredito, que depende do serviço IServicoConsultaCredito para verificar a situação de crédito de um CPF.
+
+Utilizamos Moq para simular o comportamento de IServicoConsultaCredito, permitindo criar cenários de teste personalizados.
+
+### Ferramentas Utilizadas
+- Moq: Framework de mocking para simular dependências e facilitar o teste de componentes isolados.
+- xUnit: Framework de teste unitário utilizado para organizar e executar os testes.
+- FluentAssertions: Biblioteca para criar assertivas mais legíveis e expressivas.
+
+### Configuração dos Testes
+Definição dos Cenários: Os cenários de teste definidos validam diferentes comportamentos de IServicoConsultaCredito:
+
+**CPF Inválido:** Quando o CPF é inválido, o sistema deve retornar um status de erro.
+
+**Erro de Comunicação:** Quando há uma falha na comunicação com o serviço, o sistema deve capturar a exceção e retornar um status apropriado.
+
+**CPF Sem Pendências:** Quando o CPF não possui pendências, o sistema deve retornar um status de "Sem Pendências".
+
+**CPF Inadimplente:** Quando o CPF possui pendências, o sistema deve retornar um status de "Inadimplente".
+
+Para que você possa verificar o código responsavel por isso, acesse o arquivo `TestesAnaliseCredito.cs` dentro da pasta TestesIntegração.
+
+Para executar os testes e verificar o resultado, navegue até a pasta TestesIntegração e execute o comando `dotnet test`. Assim você verá no seu terminal uma imagem como abaixo:
+
+![alt text](img/testes_integracao.png)
+
+
+# Automatizando Testes com SpecFlow, GitHub Actions e Azure DevOps
+Neste tutorial tabém cobre testes automatizados utilizando o SpecFlow para testes de aceitação, o SpecFlow é uma alternativa open source muito útil quando optamos por abordagens como BDD (Behavior Driven Development), possibilitando a execução de testes de validação de funcionalidades de um projeto através de user stories.
+
+### Objetivo
+Validar cenários de negócio diretamente no código, garantindo que a aplicação funciona como esperado sob as condições descritas pelos stakeholders.
+
+Arquivo com todas as features necessarias:
+
+![alt text](img/UserStories.png)
+
+Arquivo com exemplo de class criada:
+
+![alt text](img/class.png)

@@ -1,0 +1,8 @@
+/workspaces/aplicando-testes/APIFinancas/obj/Debug/net5.0/APIFinancas.csproj.AssemblyReference.cache
+/workspaces/aplicando-testes/APIFinancas/obj/Debug/net5.0/APIFinancas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/aplicando-testes/APIFinancas/obj/Debug/net5.0/APIFinancas.AssemblyInfoInputs.cache
+/workspaces/aplicando-testes/APIFinancas/obj/Debug/net5.0/APIFinancas.AssemblyInfo.cs
+/workspaces/aplicando-testes/APIFinancas/obj/Debug/net5.0/APIFinancas.csproj.CoreCompileInputs.cache
+/workspaces/aplicando-testes/APIFinancas/obj/Debug/net5.0/APIFinancas.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/aplicando-testes/APIFinancas/obj/Debug/net5.0/APIFinancas.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/aplicando-testes/APIFinancas/obj/Debug/net5.0/APIFinancas.sourcelink.json
